@@ -1,0 +1,13 @@
+# Allow all bots to crawl the main site
+User-agent: *
+Disallow: /construction.html  # Block specific page if not in use
+Disallow: /.git/              # Block .git directory
+Allow: /
+
+# Sitemap location
+Sitemap: http://jithinkrishnan.in/sitemap.xml
+
+# Allow all bots to access the blog subdomain
+User-agent: *
+Allow: /
+Host: blog.jithinkrishnan.in
