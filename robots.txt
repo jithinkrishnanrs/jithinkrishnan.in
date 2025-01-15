@@ -2,6 +2,8 @@
 User-agent: *
 Disallow: /construction.html  # Block specific page if not in use
 Disallow: /.git/              # Block .git directory
+Disallow: /email-signature.html  # Block specific email signature page
+Disallow: /email-signature-adhilekshmi.html  # Block another email signature page
 Allow: /
 
 # Sitemap location

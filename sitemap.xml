@@ -1,12 +1,186 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <!-- Main site homepage -->
-  <url>
-    <loc>http://jithinkrishnan.in/index.html</loc>
-  </url>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
 
-  <!-- Blog subdomain (managed by WordPress) -->
-  <url>
-    <loc>http://blog.jithinkrishnan.in</loc>
-  </url>
+<url>
+  <loc>http://jithinkrishnan.in/index.html</loc>
+  <lastmod>2025-01-15T03:47:06+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://blog.jithinkrishnan.in/</loc>
+  <lastmod>2025-01-15T03:47:06+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://blog.jithinkrishnan.in/index.php/about-page/</loc>
+  <lastmod>2025-01-15T03:47:06+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://blog.jithinkrishnan.in/index.php/2024/11/23/20-basic-linux-commands-you-need-to-know-an-absolute-beginners-guide/</loc>
+  <lastmod>2025-01-15T03:47:06+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://blog.jithinkrishnan.in/index.php/2024/11/22/schedule-openrpa-bot-using-node-red/</loc>
+  <lastmod>2025-01-15T03:47:06+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://blog.jithinkrishnan.in/index.php/2024/11/22/connect-openflow-on-localhost-using-docker-files-the-ultimate-setup-for-openrpa-and-node-red/</loc>
+  <lastmod>2025-01-15T03:47:06+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://blog.jithinkrishnan.in/index.php/category/command-line-tools/</loc>
+  <lastmod>2025-01-15T03:47:06+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://blog.jithinkrishnan.in/index.php/author/cloudchic/</loc>
+  <lastmod>2025-01-15T03:47:06+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://blog.jithinkrishnan.in/index.php/category/automation-tools/</loc>
+  <lastmod>2025-01-15T03:47:06+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://blog.jithinkrishnan.in/index.php/category/linux-basics/</loc>
+  <lastmod>2025-01-15T03:47:06+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://blog.jithinkrishnan.in/index.php/category/linux-commands/</loc>
+  <lastmod>2025-01-15T03:47:06+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://blog.jithinkrishnan.in/index.php/category/node-red/</loc>
+  <lastmod>2025-01-15T03:47:06+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://blog.jithinkrishnan.in/index.php/category/openflow/</loc>
+  <lastmod>2025-01-15T03:47:06+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://blog.jithinkrishnan.in/index.php/category/linux-tutorial/</loc>
+  <lastmod>2025-01-15T03:47:06+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://blog.jithinkrishnan.in/index.php/category/openrpa/</loc>
+  <lastmod>2025-01-15T03:47:06+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://blog.jithinkrishnan.in/index.php/category/robotic-process-automation-rpa/</loc>
+  <lastmod>2025-01-15T03:47:06+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://blog.jithinkrishnan.in/index.php/privacy-policy/</loc>
+  <lastmod>2025-01-15T03:47:06+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://blog.jithinkrishnan.in/index.php/tag/basic-linux-usage/</loc>
+  <lastmod>2025-01-15T03:47:06+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://blog.jithinkrishnan.in/index.php/tag/command-line-basics/</loc>
+  <lastmod>2025-01-15T03:47:06+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://blog.jithinkrishnan.in/index.php/tag/linux-administration/</loc>
+  <lastmod>2025-01-15T03:47:06+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://blog.jithinkrishnan.in/index.php/tag/linux-commands/</loc>
+  <lastmod>2025-01-15T03:47:06+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://blog.jithinkrishnan.in/index.php/tag/linux-for-beginners/</loc>
+  <lastmod>2025-01-15T03:47:06+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://blog.jithinkrishnan.in/index.php/tag/linux-tutorial/</loc>
+  <lastmod>2025-01-15T03:47:06+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://blog.jithinkrishnan.in/index.php/tag/terminal-commands/</loc>
+  <lastmod>2025-01-15T03:47:06+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://blog.jithinkrishnan.in/index.php/tag/automation-frameworks/</loc>
+  <lastmod>2025-01-15T03:47:06+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://blog.jithinkrishnan.in/index.php/tag/bot-scheduling/</loc>
+  <lastmod>2025-01-15T03:47:06+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://blog.jithinkrishnan.in/index.php/tag/cron-jobs/</loc>
+  <lastmod>2025-01-15T03:47:06+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://blog.jithinkrishnan.in/index.php/tag/docker-compose/</loc>
+  <lastmod>2025-01-15T03:47:06+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://blog.jithinkrishnan.in/index.php/tag/docker-setup/</loc>
+  <lastmod>2025-01-15T03:47:06+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://blog.jithinkrishnan.in/index.php/tag/localhost-deployment/</loc>
+  <lastmod>2025-01-15T03:47:06+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://blog.jithinkrishnan.in/index.php/tag/node-red-workflows/</loc>
+  <lastmod>2025-01-15T03:47:06+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://blog.jithinkrishnan.in/index.php/tag/open-source-automation/</loc>
+  <lastmod>2025-01-15T03:47:06+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://blog.jithinkrishnan.in/index.php/tag/openflow-configuration/</loc>
+  <lastmod>2025-01-15T03:47:06+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://blog.jithinkrishnan.in/index.php/tag/openrpa-integration/</loc>
+  <lastmod>2025-01-15T03:47:06+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://blog.jithinkrishnan.in/index.php/tag/workflow-automation/</loc>
+  <lastmod>2025-01-15T03:47:06+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+
+
 </urlset>
